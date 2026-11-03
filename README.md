@@ -29,8 +29,8 @@ This project focuses on analyzing financial performance using Tableau Desktop. I
 |---|---:|
 | Total Revenue | ₹24.18M |
 | Total Investment Return | ₹0.25M |
-| Total Expenses | ₹6.72M |
-| Total Income | ₹12.22M |
+| Total Expenses | ₹24.18M |
+| Total Income | ₹24.18M |
 | Total Profit | ₹5.50M |
 
 ## Dashboard Preview
