@@ -10,12 +10,12 @@ This project focuses on analyzing financial performance using Tableau Desktop. I
 - Evaluate expenses and investment returns.
 - Monitor profitability.
 - Present financial insights through an interactive Tableau dashboard.
+## Project Files
+- `Dream_Finance_Simple_Dataset.xlsx` – Original financial dataset.
 
 ## Tools & Technologies
 - Tableau Desktop
 - Microsoft Excel
-- Data Visualization
-- KPI Reporting
 
 ## Dataset Information
 - Dataset: Dream_Finance_Simple_Dataset.xlsx
@@ -36,9 +36,7 @@ This project focuses on analyzing financial performance using Tableau Desktop. I
 ## Dashboard Preview
 ![Dream Finance Dashboard](Final%20Dashboard%20Screenshot.png)
 
-## Project Files
-- `Dream_Finance_Simple_Dataset.xlsx` – Original financial dataset.
-- `Final Dashboard Screenshot.png` – Tableau dashboard preview.
 
 ## Conclusion
-This project demonstrates the use of Tableau Desktop for financial performance analysis, KPI reporting, and interactive data visualization.
+
+Through this project, financial data is transformed into actionable insights by analyzing income patterns, expense distribution, revenue growth, and investment performance. The interactive Tableau dashboard enables effective financial monitoring and provides a clear view of overall business performance.
